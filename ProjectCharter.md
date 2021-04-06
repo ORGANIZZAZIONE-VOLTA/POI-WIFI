@@ -24,3 +24,6 @@ Le tecnologie moderne permettono di trasmettere e ricevere grandi quantità di i
  * stampa dei biglietti "di accesso" utilizzabili dai visitatori
 #### PRINCIPALI RISORSE
  Le risorse materiali impegnate riguardano le postazioni di lavoro dei programmatori, la disponibilità di una rete LAN e WAN per lo sviluppo ed il materiale tecnico per poter produrre tutti i video e le foto necessarie
+
+#### DOCUMENTI DI RIFERIMENTO E ALLEGATI
+Business plan aziendale per il progetto
