@@ -2,8 +2,8 @@
 
 ## Project charter
 
-###### progetto:         
-###### data: 05/04/2021 
+###### Progetto: ITTM( Infrastruttura Tecnologica Turismo Multimediale )        
+###### Data: 05/04/2021 
 ###### cliente: (comuni)
 
 #### OBIETTIVI
