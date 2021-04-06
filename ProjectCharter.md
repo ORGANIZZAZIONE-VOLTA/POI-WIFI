@@ -20,7 +20,7 @@ Le tecnologie moderne permettono di trasmettere e ricevere grandi quantità di i
 
 #### VINCOLI E DIPENDENZE
  **Le risorse necessarie esterne all'azienda sono:** 
- 1. training tecnico per lo sviluppo di video e foto di qualità
- 2. stampa dei biglietti "di accesso" utilizzabili dai visitatori
+ * training tecnico per lo sviluppo di video e foto di qualità
+ * stampa dei biglietti "di accesso" utilizzabili dai visitatori
 #### PRINCIPALI RISORSE
  Le risorse materiali impegnate riguardano le postazioni di lavoro dei programmatori, la disponibilità di una rete LAN e WAN per lo sviluppo ed il materiale tecnico per poter produrre tutti i video e le foto necessarie
