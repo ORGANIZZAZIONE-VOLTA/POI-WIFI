@@ -19,7 +19,7 @@ Le tecnologie moderne permettono di trasmettere e ricevere grandi quantità di i
  Progettazione: Interfaccia utente
 
 #### VINCOLI E DIPENDENZE
- **Le risorse necessarie esterne all'azienda sono:
+ **Le risorse necessarie esterne all'azienda sono:** 
  *training tecnico per lo sviluppo di video e foto di qualità
  
 #### PRINCIPALI RISORSE
